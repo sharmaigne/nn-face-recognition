@@ -1,0 +1,158 @@
+Loading 'faces/an2i/an2i_straight_sad_open_4.pgm'...done
+Loading 'faces/an2i/an2i_straight_neutral_open_4.pgm'...done
+Loading 'faces/at33/at33_straight_happy_open_4.pgm'...done
+Loading 'faces/at33/at33_straight_happy_sunglasses_4.pgm'...done
+Loading 'faces/boland/boland_straight_angry_sunglasses_4.pgm'...done
+Loading 'faces/boland/boland_straight_neutral_sunglasses_4.pgm'...done
+Loading 'faces/bpm/bpm_straight_neutral_sunglasses_4.pgm'...done
+Loading 'faces/bpm/bpm_straight_angry_open_4.pgm'...done
+Loading 'faces/ch4f/ch4f_straight_neutral_sunglasses_4.pgm'...done
+Loading 'faces/ch4f/ch4f_straight_angry_open_4.pgm'...done
+Loading 'faces/cheyer/cheyer_straight_neutral_open_4.pgm'...done
+Loading 'faces/cheyer/cheyer_straight_angry_sunglasses_4.pgm'...done
+Loading 'faces/choon/choon_straight_sad_sunglasses_4.pgm'...done
+Loading 'faces/choon/choon_straight_happy_open_4.pgm'...done
+Loading 'faces/danieln/danieln_straight_sad_sunglasses_4.pgm'...done
+Loading 'faces/glickman/glickman_straight_neutral_sunglasses_4.pgm'...done
+Loading 'faces/karyadi/karyadi_straight_sad_open_4.pgm'...done
+Loading 'faces/karyadi/karyadi_straight_neutral_sunglasses_4.pgm'...done
+Loading 'faces/kawamura/kawamura_straight_happy_open_4.pgm'...done
+Loading 'faces/kawamura/kawamura_straight_angry_sunglasses_4.pgm'...done
+Loading 'faces/kk49/kk49_straight_neutral_sunglasses_4.pgm'...done
+Loading 'faces/kk49/kk49_straight_sad_open_4.pgm'...done
+Loading 'faces/megak/megak_straight_neutral_open_4.pgm'...done
+Loading 'faces/mitchell/mitchell_straight_neutral_open_4.pgm'...done
+Loading 'faces/night/night_straight_happy_sunglasses_4.pgm'...done
+Loading 'faces/night/night_straight_angry_open_4.pgm'...done
+Loading 'faces/phoebe/phoebe_straight_sad_sunglasses_4.pgm'...done
+Loading 'faces/phoebe/phoebe_straight_neutral_open_4.pgm'...done
+Loading 'faces/saavik/saavik_straight_sad_sunglasses_4.pgm'...done
+Loading 'faces/saavik/saavik_straight_neutral_open_4.pgm'...done
+Loading 'faces/steffi/steffi_straight_sad_open_4.pgm'...done
+Loading 'faces/steffi/steffi_straight_happy_open_4.pgm'...done
+Loading 'faces/sz24/sz24_straight_neutral_open_4.pgm'...done
+Loading 'faces/sz24/sz24_straight_angry_open_4.pgm'...done
+Loading 'faces/tammo/tammo_straight_sad_open_4.pgm'...done
+Loading 'faces/tammo/tammo_straight_angry_sunglasses_4.pgm'...done
+Loading 'faces/an2i/an2i_straight_happy_open_4.pgm'...done
+Loading 'faces/an2i/an2i_straight_neutral_sunglasses_4.pgm'...done
+Loading 'faces/at33/at33_straight_neutral_sunglasses_4.pgm'...done
+Loading 'faces/at33/at33_straight_sad_open_4.pgm'...done
+Loading 'faces/boland/boland_straight_sad_sunglasses_4.pgm'...done
+Loading 'faces/boland/boland_straight_angry_open_4.pgm'...done
+Loading 'faces/bpm/bpm_straight_angry_sunglasses_4.pgm'...done
+Loading 'faces/bpm/bpm_straight_happy_sunglasses_4.pgm'...done
+Loading 'faces/ch4f/ch4f_straight_angry_sunglasses_4.pgm'...done
+Loading 'faces/ch4f/ch4f_straight_happy_sunglasses_4.pgm'...done
+Loading 'faces/cheyer/cheyer_straight_sad_open_4.pgm'...done
+Loading 'faces/cheyer/cheyer_straight_happy_open_4.pgm'...done
+Loading 'faces/choon/choon_straight_happy_sunglasses_4.pgm'...done
+Loading 'faces/choon/choon_straight_angry_sunglasses_4.pgm'...done
+Loading 'faces/danieln/danieln_straight_sad_open_4.pgm'...done
+Loading 'faces/danieln/danieln_straight_angry_open_4.pgm'...done
+Loading 'faces/glickman/glickman_straight_happy_open_4.pgm'...done
+Loading 'faces/glickman/glickman_straight_happy_sunglasses_4.pgm'...done
+Loading 'faces/karyadi/karyadi_straight_happy_open_4.pgm'...done
+Loading 'faces/karyadi/karyadi_straight_happy_sunglasses_4.pgm'...done
+Loading 'faces/kawamura/kawamura_straight_neutral_sunglasses_4.pgm'...done
+Loading 'faces/kawamura/kawamura_straight_neutral_open_4.pgm'...done
+Loading 'faces/kk49/kk49_straight_happy_sunglasses_4.pgm'...done
+Loading 'faces/kk49/kk49_straight_angry_sunglasses_4.pgm'...done
+Loading 'faces/megak/megak_straight_angry_sunglasses_4.pgm'...done
+Loading 'faces/megak/megak_straight_angry_open_4.pgm'...done
+Loading 'faces/mitchell/mitchell_straight_angry_sunglasses_4.pgm'...done
+Loading 'faces/mitchell/mitchell_straight_happy_open_4.pgm'...done
+Loading 'faces/night/night_straight_sad_sunglasses_4.pgm'...done
+Loading 'faces/night/night_straight_angry_sunglasses_4.pgm'...done
+Loading 'faces/phoebe/phoebe_straight_happy_open_4.pgm'...done
+Loading 'faces/phoebe/phoebe_straight_happy_sunglasses_4.pgm'...done
+Loading 'faces/saavik/saavik_straight_happy_open_4.pgm'...done
+Loading 'faces/saavik/saavik_straight_happy_sunglasses_4.pgm'...done
+Loading 'faces/steffi/steffi_straight_angry_open_4.pgm'...done
+Loading 'faces/steffi/steffi_straight_sad_sunglasses_4.pgm'...done
+Loading 'faces/sz24/sz24_straight_happy_sunglasses_4.pgm'...done
+Loading 'faces/sz24/sz24_straight_sad_open_4.pgm'...done
+Loading 'faces/tammo/tammo_straight_neutral_open_4.pgm'...done
+Loading 'faces/tammo/tammo_straight_neutral_sunglasses_4.pgm'...done
+Random number generator seed: 102194
+0 images in training set
+36 images in test1 set
+40 images in test2 set
+Reading 'exp.net'
+'exp.net' contains a 960x4x4 network
+Reading input weights...Done
+Reading hidden weights...Done
+0 0.0 0.0 0.0 2.77778 0.425879 22.5 0.384891 
+
+Failed to classify the following images from the training set:
+
+Failed to classify the following images from the test set 1:
+an2i_straight_sad_open_4.pgm - outputs 0.059 0.030 0.034 0.945 
+an2i_straight_neutral_open_4.pgm - outputs 0.384 0.058 0.207 0.409 
+at33_straight_happy_open_4.pgm - outputs 0.569 0.612 0.119 0.054 
+at33_straight_happy_sunglasses_4.pgm - outputs 0.695 0.351 0.225 0.044 
+boland_straight_angry_sunglasses_4.pgm - outputs 0.030 0.285 0.693 0.157 
+boland_straight_neutral_sunglasses_4.pgm - outputs 0.030 0.263 0.690 0.170 
+bpm_straight_neutral_sunglasses_4.pgm - outputs 0.738 0.302 0.202 0.049 
+bpm_straight_angry_open_4.pgm - outputs 0.725 0.336 0.169 0.054 
+ch4f_straight_neutral_sunglasses_4.pgm - outputs 0.656 0.380 0.256 0.041 
+ch4f_straight_angry_open_4.pgm - outputs 0.702 0.325 0.160 0.063 
+cheyer_straight_neutral_open_4.pgm - outputs 0.055 0.267 0.542 0.186 
+cheyer_straight_angry_sunglasses_4.pgm - outputs 0.277 0.444 0.367 0.053 
+choon_straight_sad_sunglasses_4.pgm - outputs 0.355 0.005 0.147 0.814 
+choon_straight_happy_open_4.pgm - outputs 0.335 0.768 0.033 0.128 
+danieln_straight_sad_sunglasses_4.pgm - outputs 0.066 0.816 0.060 0.220 
+glickman_straight_neutral_sunglasses_4.pgm - outputs 0.598 0.108 0.108 0.224 
+karyadi_straight_sad_open_4.pgm - outputs 0.077 0.059 0.050 0.879 
+karyadi_straight_neutral_sunglasses_4.pgm - outputs 0.467 0.411 0.095 0.137 
+kawamura_straight_happy_open_4.pgm - outputs 0.545 0.060 0.195 0.284 
+kawamura_straight_angry_sunglasses_4.pgm - outputs 0.668 0.117 0.216 0.131 
+kk49_straight_sad_open_4.pgm - outputs 0.080 0.588 0.554 0.055 
+megak_straight_neutral_open_4.pgm - outputs 0.165 0.350 0.479 0.082 
+mitchell_straight_neutral_open_4.pgm - outputs 0.687 0.384 0.214 0.045 
+night_straight_happy_sunglasses_4.pgm - outputs 0.494 0.419 0.318 0.043 
+night_straight_angry_open_4.pgm - outputs 0.585 0.268 0.191 0.084 
+phoebe_straight_sad_sunglasses_4.pgm - outputs 0.090 0.462 0.506 0.068 
+phoebe_straight_neutral_open_4.pgm - outputs 0.597 0.371 0.240 0.049 
+saavik_straight_sad_sunglasses_4.pgm - outputs 0.100 0.063 0.545 0.360 
+saavik_straight_neutral_open_4.pgm - outputs 0.083 0.537 0.577 0.058 
+steffi_straight_sad_open_4.pgm - outputs 0.080 0.829 0.135 0.112 
+steffi_straight_happy_open_4.pgm - outputs 0.267 0.558 0.141 0.109 
+sz24_straight_neutral_open_4.pgm - outputs 0.609 0.318 0.241 0.060 
+sz24_straight_angry_open_4.pgm - outputs 0.656 0.207 0.170 0.098 
+tammo_straight_sad_open_4.pgm - outputs 0.083 0.080 0.469 0.406 
+tammo_straight_angry_sunglasses_4.pgm - outputs 0.403 0.148 0.319 0.148 
+
+Failed to classify the following images from the test set 2:
+an2i_straight_happy_open_4.pgm - outputs 0.116 0.106 0.079 0.730 
+an2i_straight_neutral_sunglasses_4.pgm - outputs 0.392 0.037 0.232 0.460 
+at33_straight_neutral_sunglasses_4.pgm - outputs 0.624 0.387 0.265 0.041 
+boland_straight_sad_sunglasses_4.pgm - outputs 0.038 0.404 0.678 0.101 
+boland_straight_angry_open_4.pgm - outputs 0.476 0.475 0.245 0.051 
+bpm_straight_angry_sunglasses_4.pgm - outputs 0.754 0.317 0.202 0.046 
+bpm_straight_happy_sunglasses_4.pgm - outputs 0.754 0.316 0.201 0.047 
+ch4f_straight_angry_sunglasses_4.pgm - outputs 0.743 0.327 0.217 0.044 
+ch4f_straight_happy_sunglasses_4.pgm - outputs 0.701 0.357 0.238 0.042 
+choon_straight_happy_sunglasses_4.pgm - outputs 0.371 0.004 0.175 0.790 
+danieln_straight_sad_open_4.pgm - outputs 0.053 0.941 0.085 0.089 
+danieln_straight_angry_open_4.pgm - outputs 0.119 0.788 0.203 0.066 
+glickman_straight_happy_open_4.pgm - outputs 0.673 0.161 0.140 0.126 
+glickman_straight_happy_sunglasses_4.pgm - outputs 0.588 0.069 0.126 0.277 
+karyadi_straight_happy_open_4.pgm - outputs 0.391 0.682 0.065 0.107 
+karyadi_straight_happy_sunglasses_4.pgm - outputs 0.528 0.277 0.107 0.152 
+kawamura_straight_neutral_sunglasses_4.pgm - outputs 0.739 0.217 0.197 0.069 
+kawamura_straight_neutral_open_4.pgm - outputs 0.565 0.083 0.188 0.232 
+kk49_straight_angry_sunglasses_4.pgm - outputs 0.291 0.122 0.387 0.180 
+megak_straight_angry_sunglasses_4.pgm - outputs 0.632 0.317 0.241 0.053 
+megak_straight_angry_open_4.pgm - outputs 0.649 0.205 0.233 0.083 
+mitchell_straight_angry_sunglasses_4.pgm - outputs 0.367 0.460 0.383 0.043 
+mitchell_straight_happy_open_4.pgm - outputs 0.672 0.342 0.220 0.053 
+night_straight_angry_sunglasses_4.pgm - outputs 0.632 0.352 0.252 0.046 
+phoebe_straight_happy_open_4.pgm - outputs 0.596 0.345 0.234 0.058 
+phoebe_straight_happy_sunglasses_4.pgm - outputs 0.122 0.571 0.537 0.043 
+steffi_straight_angry_open_4.pgm - outputs 0.122 0.868 0.077 0.110 
+steffi_straight_sad_sunglasses_4.pgm - outputs 0.023 0.516 0.387 0.201 
+sz24_straight_happy_sunglasses_4.pgm - outputs 0.418 0.225 0.257 0.095 
+tammo_straight_neutral_open_4.pgm - outputs 0.095 0.224 0.448 0.205 
+tammo_straight_neutral_sunglasses_4.pgm - outputs 0.340 0.274 0.371 0.086 
+
